@@ -1,0 +1,16 @@
+RadioDNS example
+================
+
+This code represents a quick and dirty proof of concept implementation of the
+RadioDNS services.
+
+The code doesn't currently run successfully because the SRV records associated
+with the demo URL I've used don't tie up to depolyed services.
+
+If you're a broadcaster and you happen to have a stream that you want to enable
+for RadioDNS, please do get in touch and I can take you through the steps - it
+would be great to have a working example.
+
+----
+
+codders
